@@ -1,8 +1,6 @@
 ﻿using System;
-using System.ComponentModel.DataAnnotations;
-using System.Runtime.CompilerServices;
 
-namespace HelloWorld
+namespace Lab1
 {
     class Program
     {
