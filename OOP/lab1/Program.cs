@@ -1,8 +1,6 @@
 ﻿using System;
-using System.ComponentModel.DataAnnotations;
-using System.Runtime.CompilerServices;
 
-namespace HelloWorld
+namespace Lab1
 {
     class Program
     {
@@ -23,11 +21,9 @@ namespace HelloWorld
                     case "0":
                         Console.WriteLine("Выход из программы. Пока!");
                         return;
-
                     case "1":
                         Run1();
                         break;
-
                     case "2":
                         Run2();
                         break;
