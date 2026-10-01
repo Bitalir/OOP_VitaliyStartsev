@@ -1,0 +1,11 @@
+C:\Users\Bitalir\Desktop\3 семестр\OOP\LabUlits\bin\Debug\net8.0\LabUlits.deps.json
+C:\Users\Bitalir\Desktop\3 семестр\OOP\LabUlits\bin\Debug\net8.0\LabUlits.dll
+C:\Users\Bitalir\Desktop\3 семестр\OOP\LabUlits\bin\Debug\net8.0\LabUlits.pdb
+C:\Users\Bitalir\Desktop\3 семестр\OOP\LabUlits\obj\Debug\net8.0\LabUlits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bitalir\Desktop\3 семестр\OOP\LabUlits\obj\Debug\net8.0\LabUlits.AssemblyInfoInputs.cache
+C:\Users\Bitalir\Desktop\3 семестр\OOP\LabUlits\obj\Debug\net8.0\LabUlits.AssemblyInfo.cs
+C:\Users\Bitalir\Desktop\3 семестр\OOP\LabUlits\obj\Debug\net8.0\LabUlits.csproj.CoreCompileInputs.cache
+C:\Users\Bitalir\Desktop\3 семестр\OOP\LabUlits\obj\Debug\net8.0\LabUlits.dll
+C:\Users\Bitalir\Desktop\3 семестр\OOP\LabUlits\obj\Debug\net8.0\refint\LabUlits.dll
+C:\Users\Bitalir\Desktop\3 семестр\OOP\LabUlits\obj\Debug\net8.0\LabUlits.pdb
+C:\Users\Bitalir\Desktop\3 семестр\OOP\LabUlits\obj\Debug\net8.0\ref\LabUlits.dll

@@ -1,4 +1,5 @@
 ﻿using System;
+using LabUlits;
 
 namespace lab3
 {
@@ -10,7 +11,7 @@ namespace lab3
             double b = 1.0;
             int n = 10;
             double Eps = 0.0001;
-            double k = ReadNumber<double>("Введите число k: ");
+            double k = ConsoleInput.ReadNumber<double>("Введите число k: ");
             double h = (b-a)/k;
             for (int step = 0; step <= k; step++)
             {
@@ -33,16 +34,6 @@ namespace lab3
                     i2++;
                 }
                 Console.WriteLine($"X={x} SN={SN} SE={SE} y={y}");
-            }
-        }
-        static T ReadNumber<T>(string prompt) where T : IParsable<T>
-        {
-            while (true)
-            {
-                Console.Write(prompt);
-                if (T.TryParse(Console.ReadLine(), null, out var value))
-                    return value;
-                Console.WriteLine("Некорректный ввод. Попробуйте ещё раз.");
             }
         }
     }
