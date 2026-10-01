@@ -21,9 +21,11 @@ namespace Lab1
                     case "0":
                         Console.WriteLine("Выход из программы. Пока!");
                         return;
+
                     case "1":
                         Run1();
                         break;
+
                     case "2":
                         Run2();
                         break;
