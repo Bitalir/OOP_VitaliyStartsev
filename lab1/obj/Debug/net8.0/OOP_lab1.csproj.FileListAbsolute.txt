@@ -1,0 +1,14 @@
+C:\Users\Bitalir\source\repos\OOP_lab1\bin\Debug\net8.0\OOP_lab1.exe
+C:\Users\Bitalir\source\repos\OOP_lab1\bin\Debug\net8.0\OOP_lab1.deps.json
+C:\Users\Bitalir\source\repos\OOP_lab1\bin\Debug\net8.0\OOP_lab1.runtimeconfig.json
+C:\Users\Bitalir\source\repos\OOP_lab1\bin\Debug\net8.0\OOP_lab1.dll
+C:\Users\Bitalir\source\repos\OOP_lab1\bin\Debug\net8.0\OOP_lab1.pdb
+C:\Users\Bitalir\source\repos\OOP_lab1\obj\Debug\net8.0\OOP_lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bitalir\source\repos\OOP_lab1\obj\Debug\net8.0\OOP_lab1.AssemblyInfoInputs.cache
+C:\Users\Bitalir\source\repos\OOP_lab1\obj\Debug\net8.0\OOP_lab1.AssemblyInfo.cs
+C:\Users\Bitalir\source\repos\OOP_lab1\obj\Debug\net8.0\OOP_lab1.csproj.CoreCompileInputs.cache
+C:\Users\Bitalir\source\repos\OOP_lab1\obj\Debug\net8.0\OOP_lab1.dll
+C:\Users\Bitalir\source\repos\OOP_lab1\obj\Debug\net8.0\refint\OOP_lab1.dll
+C:\Users\Bitalir\source\repos\OOP_lab1\obj\Debug\net8.0\OOP_lab1.pdb
+C:\Users\Bitalir\source\repos\OOP_lab1\obj\Debug\net8.0\OOP_lab1.genruntimeconfig.cache
+C:\Users\Bitalir\source\repos\OOP_lab1\obj\Debug\net8.0\ref\OOP_lab1.dll
