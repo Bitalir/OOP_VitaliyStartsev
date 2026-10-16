@@ -27,6 +27,6 @@ C:\Users\Bitalir\Desktop\3 семестр\OOP\lab3\obj\Debug\net8.0\OOP_lab3.pdb
 C:\Users\Bitalir\Desktop\3 семестр\OOP\lab3\obj\Debug\net8.0\OOP_lab3.genruntimeconfig.cache
 C:\Users\Bitalir\Desktop\3 семестр\OOP\lab3\obj\Debug\net8.0\ref\OOP_lab3.dll
 C:\Users\Bitalir\Desktop\3 семестр\OOP\lab3\obj\Debug\net8.0\OOP_lab3.csproj.AssemblyReference.cache
-C:\Users\Bitalir\Desktop\3 семестр\OOP\lab3\bin\Debug\net8.0\LabUlits.dll
-C:\Users\Bitalir\Desktop\3 семестр\OOP\lab3\bin\Debug\net8.0\LabUlits.pdb
 C:\Users\Bitalir\Desktop\3 семестр\OOP\lab3\obj\Debug\net8.0\OOP_lab3.csproj.Up2Date
+C:\Users\Bitalir\Desktop\3 семестр\OOP\lab3\bin\Debug\net8.0\LabUtils.dll
+C:\Users\Bitalir\Desktop\3 семестр\OOP\lab3\bin\Debug\net8.0\LabUtils.pdb

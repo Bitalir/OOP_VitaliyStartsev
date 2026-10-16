@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/LabUlits.dll": {}
         }
+      },
+      "LabUtils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/LabUtils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LabUtils.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "../LabUlits/LabUlits.csproj",
       "msbuildProject": "../LabUlits/LabUlits.csproj"
+    },
+    "LabUtils/1.0.0": {
+      "type": "project",
+      "path": "../LabUtils/LabUtils.csproj",
+      "msbuildProject": "../LabUtils/LabUtils.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "LabUlits >= 1.0.0"
+      "LabUlits >= 1.0.0",
+      "LabUtils >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -55,6 +71,9 @@
           "projectReferences": {
             "C:\\Users\\Bitalir\\Desktop\\3 семестр\\OOP\\LabUlits\\LabUlits.csproj": {
               "projectPath": "C:\\Users\\Bitalir\\Desktop\\3 семестр\\OOP\\LabUlits\\LabUlits.csproj"
+            },
+            "C:\\Users\\Bitalir\\Desktop\\3 семестр\\OOP\\LabUtils\\LabUtils.csproj": {
+              "projectPath": "C:\\Users\\Bitalir\\Desktop\\3 семестр\\OOP\\LabUtils\\LabUtils.csproj"
             }
           }
         }

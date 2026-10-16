@@ -1,5 +1,5 @@
 ﻿using System;
-using LabUlits;
+using LabUtils;
 
 namespace lab3
 {
@@ -11,7 +11,7 @@ namespace lab3
             double b = 1.0;
             int n = 10;
             double Eps = 0.0001;
-            double k = ConsoleInput.ReadNumber<double>("Введите число k: ");
+            double k = ConsoleInput.Read<double>("Введите число k: ");
             double h = (b-a)/k;
             for (int step = 0; step <= k; step++)
             {
