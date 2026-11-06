@@ -1,0 +1,11 @@
+C:\Users\Bitalir\Desktop\3 семестр\OOP\lab10\lab10.classes\bin\Debug\net8.0\lab10.classes.deps.json
+C:\Users\Bitalir\Desktop\3 семестр\OOP\lab10\lab10.classes\bin\Debug\net8.0\lab10.classes.dll
+C:\Users\Bitalir\Desktop\3 семестр\OOP\lab10\lab10.classes\bin\Debug\net8.0\lab10.classes.pdb
+C:\Users\Bitalir\Desktop\3 семестр\OOP\lab10\lab10.classes\obj\Debug\net8.0\lab10.classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bitalir\Desktop\3 семестр\OOP\lab10\lab10.classes\obj\Debug\net8.0\lab10.classes.AssemblyInfoInputs.cache
+C:\Users\Bitalir\Desktop\3 семестр\OOP\lab10\lab10.classes\obj\Debug\net8.0\lab10.classes.AssemblyInfo.cs
+C:\Users\Bitalir\Desktop\3 семестр\OOP\lab10\lab10.classes\obj\Debug\net8.0\lab10.classes.csproj.CoreCompileInputs.cache
+C:\Users\Bitalir\Desktop\3 семестр\OOP\lab10\lab10.classes\obj\Debug\net8.0\lab10.classes.dll
+C:\Users\Bitalir\Desktop\3 семестр\OOP\lab10\lab10.classes\obj\Debug\net8.0\refint\lab10.classes.dll
+C:\Users\Bitalir\Desktop\3 семестр\OOP\lab10\lab10.classes\obj\Debug\net8.0\lab10.classes.pdb
+C:\Users\Bitalir\Desktop\3 семестр\OOP\lab10\lab10.classes\obj\Debug\net8.0\ref\lab10.classes.dll

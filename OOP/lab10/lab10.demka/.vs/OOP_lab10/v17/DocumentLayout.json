@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab10\\lab10.demka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{700F49E8-8C6D-427C-8AB3-C71068A18358}|..\\lab10.classes\\lab10.classes.csproj|c:\\users\\bitalir\\desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\oop\\lab10\\lab10.classes\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09F8FA9-260C-4F71-8B2B-9756B54B8075}|..\\lab10.tests\\lab10.tests.csproj|c:\\users\\bitalir\\desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\oop\\lab10\\lab10.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B747CB6-7FB4-49A5-A28F-DB9433A425AB}|lab10.demka.csproj|c:\\users\\bitalir\\desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\oop\\lab10\\lab10.demka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B747CB6-7FB4-49A5-A28F-DB9433A425AB}|lab10.demka.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700F49E8-8C6D-427C-8AB3-C71068A18358}|..\\lab10.classes\\lab10.classes.csproj|c:\\users\\bitalir\\desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\oop\\lab10\\lab10.classes\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700F49E8-8C6D-427C-8AB3-C71068A18358}|..\\lab10.classes\\lab10.classes.csproj|c:\\users\\bitalir\\desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\oop\\lab10\\lab10.classes\\sortbyname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700F49E8-8C6D-427C-8AB3-C71068A18358}|..\\lab10.classes\\lab10.classes.csproj|c:\\users\\bitalir\\desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\oop\\lab10\\lab10.classes\\artiodactyl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700F49E8-8C6D-427C-8AB3-C71068A18358}|..\\lab10.classes\\lab10.classes.csproj|c:\\users\\bitalir\\desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\oop\\lab10\\lab10.classes\\iinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700F49E8-8C6D-427C-8AB3-C71068A18358}|..\\lab10.classes\\lab10.classes.csproj|c:\\users\\bitalir\\desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\oop\\lab10\\lab10.classes\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700F49E8-8C6D-427C-8AB3-C71068A18358}|..\\lab10.classes\\lab10.classes.csproj|c:\\users\\bitalir\\desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\oop\\lab10\\lab10.classes\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab10\\lab10.tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\lab10.tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab10\\lab10.tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\lab10.tests\\UnitTest1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T18:45:19.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SOrtByName.cs",
+              "DocumentMoniker": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab10\\lab10.classes\\SOrtByName.cs",
+              "RelativeDocumentMoniker": "..\\lab10.classes\\SOrtByName.cs",
+              "ToolTip": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab10\\lab10.classes\\SOrtByName.cs",
+              "RelativeToolTip": "..\\lab10.classes\\SOrtByName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T18:38:27.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Plant.cs",
+              "DocumentMoniker": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab10\\lab10.classes\\Plant.cs",
+              "RelativeDocumentMoniker": "..\\lab10.classes\\Plant.cs",
+              "ToolTip": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab10\\lab10.classes\\Plant.cs",
+              "RelativeToolTip": "..\\lab10.classes\\Plant.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAA5wEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T18:33:44.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IInit.cs",
+              "DocumentMoniker": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab10\\lab10.classes\\IInit.cs",
+              "RelativeDocumentMoniker": "..\\lab10.classes\\IInit.cs",
+              "ToolTip": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab10\\lab10.classes\\IInit.cs",
+              "RelativeToolTip": "..\\lab10.classes\\IInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T18:29:50.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab10\\lab10.demka\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab10\\lab10.demka\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T18:23:21.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Artiodactyl.cs",
+              "DocumentMoniker": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab10\\lab10.classes\\Artiodactyl.cs",
+              "RelativeDocumentMoniker": "..\\lab10.classes\\Artiodactyl.cs",
+              "ToolTip": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab10\\lab10.classes\\Artiodactyl.cs",
+              "RelativeToolTip": "..\\lab10.classes\\Artiodactyl.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T18:08:38.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mammal.cs",
+              "DocumentMoniker": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab10\\lab10.classes\\Mammal.cs",
+              "RelativeDocumentMoniker": "..\\lab10.classes\\Mammal.cs",
+              "ToolTip": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab10\\lab10.classes\\Mammal.cs",
+              "RelativeToolTip": "..\\lab10.classes\\Mammal.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCYAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T17:44:44.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab10\\lab10.classes\\Animal.cs",
+              "RelativeDocumentMoniker": "..\\lab10.classes\\Animal.cs",
+              "ToolTip": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab10\\lab10.classes\\Animal.cs",
+              "RelativeToolTip": "..\\lab10.classes\\Animal.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T17:15:23.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab10\\lab10.classes\\Bird.cs",
+              "RelativeDocumentMoniker": "..\\lab10.classes\\Bird.cs",
+              "ToolTip": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab10\\lab10.classes\\Bird.cs",
+              "RelativeToolTip": "..\\lab10.classes\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T17:59:21.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

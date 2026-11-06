@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E89C55AD-D84E-48FD-9A55-CD669E22DE06}|OOP_lab9.csproj|c:\\users\\bitalir\\desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\oop\\lab9\\moneyarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E89C55AD-D84E-48FD-9A55-CD669E22DE06}|OOP_lab9.csproj|solutionrelative:moneyarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E89C55AD-D84E-48FD-9A55-CD669E22DE06}|OOP_lab9.csproj|c:\\users\\bitalir\\desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\oop\\lab9\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E89C55AD-D84E-48FD-9A55-CD669E22DE06}|OOP_lab9.csproj|solutionrelative:money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E89C55AD-D84E-48FD-9A55-CD669E22DE06}|OOP_lab9.csproj|c:\\users\\bitalir\\desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\oop\\lab9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E89C55AD-D84E-48FD-9A55-CD669E22DE06}|OOP_lab9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E89C55AD-D84E-48FD-9A55-CD669E22DE06}|OOP_lab9.csproj|c:\\users\\bitalir\\desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\oop\\lab9\\inputoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E89C55AD-D84E-48FD-9A55-CD669E22DE06}|OOP_lab9.csproj|solutionrelative:inputoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F6A68C-A73F-B81B-2607-6208A66EA1D8}|..\\LabUtils\\LabUtils.csproj|c:\\users\\bitalir\\desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\oop\\labutils\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\bitalir\\desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\oop\\lab9.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab9\\Lab9.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Lab9.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab9\\Lab9.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Lab9.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T16:22:36.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoneyArray.cs",
+              "DocumentMoniker": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab9\\MoneyArray.cs",
+              "RelativeDocumentMoniker": "MoneyArray.cs",
+              "ToolTip": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab9\\MoneyArray.cs",
+              "RelativeToolTip": "MoneyArray.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T12:52:40.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\LabUtils\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\LabUtils\\Class1.cs",
+              "ToolTip": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\LabUtils\\Class1.cs",
+              "RelativeToolTip": "..\\LabUtils\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T12:12:54.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputOutput.cs",
+              "DocumentMoniker": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab9\\InputOutput.cs",
+              "RelativeDocumentMoniker": "InputOutput.cs",
+              "ToolTip": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab9\\InputOutput.cs",
+              "RelativeToolTip": "InputOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T11:48:09.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Money.cs",
+              "DocumentMoniker": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab9\\Money.cs",
+              "RelativeDocumentMoniker": "Money.cs",
+              "ToolTip": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab9\\Money.cs",
+              "RelativeToolTip": "Money.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T11:47:04.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab9\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Bitalir\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OOP\\lab9\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T11:44:30.341Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
